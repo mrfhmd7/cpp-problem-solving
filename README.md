@@ -13,10 +13,13 @@ Problem-7: Write a program to find the largest and smallest number between two n
 
 Problem-8: Create a class float that contains one float data number. Overload all the four arithmetic operators for two objects.
 
-Problem-9: Given the following base class: 
-     class area_cl
+
+Problem-9: Given the following base class:
+```c++
+    class area_cl
      {public:
           double height;
           double width;
      };
+```
 Create two derived classes called rectangle and isosceles that inherit area_cl. Have each class include a function area() that returns the area of a rectangle isosceles triangle as appropriate. Use parameterized constructor to initialize height and width. Write the complete program.
