@@ -1,4 +1,4 @@
-#3rd semester oop lab question solve
+## 3rd semester oop lab question solve
 
 Problem-1: Write a program to enter any number and find its factorial using constructor.
 
