@@ -1,3 +1,5 @@
+#3rd semester oop lab question solve
+
 Problem-1: Write a program to enter any number and find its factorial using constructor.
 
 Problem-2: Create a class called COMPLEX that has two private data called real and imaginary. Include constructor function to input real and imaginary values, show() to display complex numbers. Write a program to add two complex numbers.
